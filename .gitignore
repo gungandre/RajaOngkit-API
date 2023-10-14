@@ -1,0 +1,5 @@
+# Ini adalah komentar - baris-baris yang dimulai dengan '#' adalah komentar
+node_modules/  # Abaikan seluruh direktori node_modules beserta isinya
+.env          # Abaikan file .env
+build/        # Abaikan seluruh direktori build beserta isinya
+*.log         # Abaikan semua file dengan ekstensi .log
